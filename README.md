@@ -1,9 +1,9 @@
-# Wifirelay-PC-Power-Button-ESP8266 v1.0
-ESP8266 D1 Mini Automatization PC Power Button
-Pide la asistencia de @GeorgeK55 en caso de que necesites soporte tecnico, o escrimebe a mi instagram @Avsolem si necesitas ayuda
+# Sistema Embebido CapGemini v1.0
+ESP32 DROOM-32
+Pide la asistencia de @Avsolem en caso de que necesites soporte tecnico
 
 Recuerda instalar el json en Archivo > Preferencias > Gestor de URLs Adicionales de Tarjetas y copiar la url dentro
 
-Selecciona tu placa base (en mi caso Lolin (Wemos) D1 R2 & mini) y añade tus configuraciones en los apartados marcados con # (#YOUR SSID, #YOURWIFIPASS, #YOURAIOKEY)
+Selecciona tu placa base (en mi caso ESP32 DROMM) y añade tus configuraciones en los apartados marcados con # (#YOUR SSID, #YOURWIFIPASS, #YOURAIOKEY)
 
-![ESP8266 D1 Mini](https://www.ardubitronics.com/464-large_default/wemos-d1-mini.jpg)
+![ESP32 DROOM-32 D1 ](https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61JiwY9v5FL._AC_UF894,1000_QL80_.jpg)
